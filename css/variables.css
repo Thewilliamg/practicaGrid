@@ -1,5 +1,6 @@
 :root{
     --color-primary:#f3f3f5;
-    --color-secundary:#fff;
+    --color-secundary:#e9eae9;
+    --color-tertiary:#fa7804;
     --color-transparencia:rgba(0,0,0,0.287)
 }
