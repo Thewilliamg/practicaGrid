@@ -1,4 +1,5 @@
 :root{
-    --color-primary: blue;
-    --color-secondary: red;
+    --color-primary:#f3f3f5;
+    --color-secundary:#fff;
+    --color-transparencia:rgba(0,0,0,0.287)
 }
