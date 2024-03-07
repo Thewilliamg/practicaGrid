@@ -13,7 +13,7 @@ body{
     align-content: center;
 }
 .pantalla{
-    width: 954px;
+    width: 1024px;
     height: 72%;
     display: grid;
     border-radius: 15px;
